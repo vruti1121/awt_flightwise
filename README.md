@@ -1,4 +1,4 @@
-![icon_logo](flight\static\img\icon_logo_white-outline.png)
+![icon_logo](https://github.com/AVB100/awt_flightwise/blob/main/flight/static/img/icon_logo_white-outline.png)
 
 
 
